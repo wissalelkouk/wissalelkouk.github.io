@@ -1,0 +1,5 @@
+#/wp-admin/
+#/wp-includes/
+#wp-*.php
+#xmlrpc.php
+#wp-config-sample.php

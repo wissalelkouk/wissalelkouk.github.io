@@ -1,0 +1,18 @@
+[2025-10-18 14:31:16 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-18 14:31:27 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-18 14:31:53 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-18 14:33:29 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-18 14:33:51 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-18 17:08:59 : INFO] - Cache for URL: http://localhost/Accessor%20Phone/?page_id=434 has been purged, triggered by action: save_post 
+[2025-10-18 17:08:59 : INFO] - Cache for author page URL: http://localhost/Accessor%20Phone/?author=1 associated with post_type: page and Title: "nos produits" has been purged, triggered by action: save_post 
+[2025-10-18 22:11:32 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-18 22:11:32 : INFO] - Cache for URL: http://localhost/Accessor%20Phone/?product=bijou-de-telephone has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-18 22:11:32 : INFO] - Cache for URL: http://localhost/Accessor%20Phone/?product=bijou-de-telephone has been purged, triggered by action: save_post 
+[2025-10-18 22:11:32 : INFO] - Cache for archive page associated with post_type: product and Title: "Bijou de Téléphone" has been purged, triggered by action: save_post 
+[2025-10-18 22:14:11 : INFO] - Cache for URL: http://localhost/Accessor%20Phone/?page_id=9 has been purged, triggered by action: save_post 
+[2025-10-18 22:14:11 : INFO] - Cache for author page URL: http://localhost/Accessor%20Phone/?author=1 associated with post_type: page and Title: "Panier" has been purged, triggered by action: save_post 
+[2025-10-18 22:14:11 : INFO] - Cache for URL: http://localhost/Accessor%20Phone/?page_id=9 has been purged, triggered by action: save_post 
+[2025-10-18 22:14:11 : INFO] - Cache for author page URL: http://localhost/Accessor%20Phone/?author=1 associated with post_type: page and Title: "Panier" has been purged, triggered by action: save_post 
+[2025-10-18 22:14:35 : INFO] - Cache for URL: http://localhost/Accessor%20Phone/?page_id=9 has been purged, triggered by action: save_post 
+[2025-10-18 22:14:35 : INFO] - Cache for author page URL: http://localhost/Accessor%20Phone/?author=1 associated with post_type: page and Title: "Panier" has been purged, triggered by action: save_post 
+[2025-10-19 09:37:05 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
