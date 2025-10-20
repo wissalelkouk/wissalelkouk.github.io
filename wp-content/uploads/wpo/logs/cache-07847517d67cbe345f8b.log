@@ -16,3 +16,15 @@
 [2025-10-18 22:14:35 : INFO] - Cache for URL: http://localhost/Accessor%20Phone/?page_id=9 has been purged, triggered by action: save_post 
 [2025-10-18 22:14:35 : INFO] - Cache for author page URL: http://localhost/Accessor%20Phone/?author=1 associated with post_type: page and Title: "Panier" has been purged, triggered by action: save_post 
 [2025-10-19 09:37:05 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-20 19:38:08 : INFO] - Cache for URL: http://localhost/AccessorPhone/?page_id=435 has been purged, triggered by action: save_post 
+[2025-10-20 19:38:08 : INFO] - Cache for author page URL: http://localhost/AccessorPhone/?author=1 associated with post_type: page and Title: "Agents" has been purged, triggered by action: save_post 
+[2025-10-20 19:38:09 : INFO] - Cache for URL: http://localhost/AccessorPhone/?page_id=435 has been purged, triggered by action: save_post 
+[2025-10-20 19:38:09 : INFO] - Cache for author page URL: http://localhost/AccessorPhone/?author=1 associated with post_type: page and Title: "Agents" has been purged, triggered by action: save_post 
+[2025-10-20 19:38:09 : INFO] - Cache for URL: http://localhost/AccessorPhone/?page_id=435 has been purged, triggered by action: save_post 
+[2025-10-20 19:38:09 : INFO] - Cache for author page URL: http://localhost/AccessorPhone/?author=1 associated with post_type: page and Title: "Agents" has been purged, triggered by action: save_post 
+[2025-10-20 19:39:44 : INFO] - Cache for URL: http://localhost/AccessorPhone/?page_id=435 has been purged, triggered by action: save_post 
+[2025-10-20 19:39:44 : INFO] - Cache for author page URL: http://localhost/AccessorPhone/?author=1 associated with post_type: page and Title: "Agents" has been purged, triggered by action: save_post 
+[2025-10-20 19:39:44 : INFO] - Cache for URL: http://localhost/AccessorPhone/?page_id=435 has been purged, triggered by action: save_post 
+[2025-10-20 19:39:44 : INFO] - Cache for author page URL: http://localhost/AccessorPhone/?author=1 associated with post_type: page and Title: "Agents" has been purged, triggered by action: save_post 
+[2025-10-20 19:39:45 : INFO] - Cache for URL: http://localhost/AccessorPhone/?page_id=435 has been purged, triggered by action: save_post 
+[2025-10-20 19:39:45 : INFO] - Cache for author page URL: http://localhost/AccessorPhone/?author=1 associated with post_type: page and Title: "Agents" has been purged, triggered by action: save_post 
